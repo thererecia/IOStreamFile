@@ -1,0 +1,5 @@
+Laptop;7500000.0;5
+Smartphone;3500000.0;10
+Kemeja;150000.0;25
+Biskuit;15000.0;100
+Headphone;300000.0;15
